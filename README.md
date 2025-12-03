@@ -1,4 +1,4 @@
-# 🧠 Data Analysis & Machine Learning Portfolio Projects
+# 🧠 Data Analysis , Machine Learning , Deep Learning , Convolution Neural Networks , Recurrent Neural Networks
 
 Welcome! I'm Gourav, a data analyst & aspiring AI/ML engineer passionate about solving real-world problems using data. This portfolio showcases work in:
 

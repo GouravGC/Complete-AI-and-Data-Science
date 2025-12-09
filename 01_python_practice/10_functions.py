@@ -58,3 +58,8 @@ x = lambda a,b:a*b
 print(x(4,5))
 
 x(4,5)
+
+# # Map Function
+# numbers = [1, 2, 3, 4, 5]
+# squared_numbers = list(map(lambda x: x ** 2, numbers))
+# print(squared_numbers)  # Output: [1, 4, 9, 16, 25]
